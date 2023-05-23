@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aurelie661" alt="aurelie661" /></a> </p>
 
-- 🔭 I’m currently working on [project pokemon](https://github.com/aurelie661/ANGULAR-PROJECT/tree/master/projet%20pokemon)
+- 🔭 I’m currently working on [Pokemon Project](https://github.com/aurelie661/ANGULAR-PROJECT/tree/master/projet%20pokemon)
 
 - 🌱 I’m currently learning **JAVA && ANGULAR**
 

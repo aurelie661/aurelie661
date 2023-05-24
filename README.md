@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="LanguagesAndToolsImage.png" alt="Languages and tools" width="900" height="400"/>
+<img src="LanguagesAndToolsImage.svg" alt="Languages and tools" width="900" height="400"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurelie661&show_icons=true&locale=en&layout=compact" alt="aurelie661" /></p>
 

@@ -18,11 +18,11 @@ ________________________________________________________________________________
 <a href="https://linkedin.com/in/aurélie boutillier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurélie boutillier" height="30" width="40" /></a>
 <a href="https://discord.gg/Aurélie#5570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aurélie#5570" height="30" width="40" /></a>
 </p>
-________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________
 <h3 align="left">Languages and Tools:</h3>
 
 <img src="LanguagesAndToolsImage.png" alt="Languages and tools" width="900" height="400"/>
-________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurelie661&show_icons=true&locale=en&layout=compact" alt="aurelie661" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurelie661&show_icons=true&locale=en" alt="aurelie661" /></p>

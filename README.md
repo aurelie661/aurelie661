@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JAVA && ANGULAR**
 
-- 👨‍💻 All of my projects are available at [https://aboutillier.fr/](https://aboutillier.fr/)
+- 👨‍💻 Some of my projects are available at [https://aboutillier.fr/](https://aboutillier.fr/)
 
 - 📫 How to reach me **contact@aboutillier.fr**
 

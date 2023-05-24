@@ -18,7 +18,7 @@ ________________________________________________________________________________
 <a href="https://linkedin.com/in/aurélie boutillier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurélie boutillier" height="30" width="40" /></a>
 <a href="https://discord.gg/Aurélie#5570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aurélie#5570" height="30" width="40" /></a>
 </p>
-________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________
 <h3 align="left">Languages and Tools:</h3>
 
 <img src="LanguagesAndToolsImage.png" alt="Languages and tools" width="900" height="400"/>

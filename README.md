@@ -22,7 +22,7 @@ ________________________________________________________________________________
 <h3 align="left">Languages and Tools:</h3>
 
 <img src="LanguagesAndToolsImage.png" alt="Languages and tools" width="900" height="400"/>
-
+_________________________________________________________________________________________________________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurelie661&show_icons=true&locale=en&layout=compact" alt="aurelie661" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurelie661&show_icons=true&locale=en" alt="aurelie661" /></p>

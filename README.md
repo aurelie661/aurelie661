@@ -12,7 +12,7 @@
 - 👨‍💻 Some of my projects are available at [https://aboutillier.fr/](https://aboutillier.fr/)
 
 <h1>CONTACT ME</h1>
-- 📫 How to reach me **contact@aboutillier.fr**
+- 📫 How to reach me <a href="mailto:contact@aboutillier">📨</a>
 
 <h1 align="left">CONNECT WITH ME:</h1>
 <p align="left">

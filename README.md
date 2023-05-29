@@ -25,7 +25,7 @@
 <img src="LanguagesAndToolsImage.png" alt="Languages and tools" width="900" height="400"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aurelie661" alt="aurelie661" /></a> </p>
 <hr>
-<h1></h1>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurelie661&show_icons=true&locale=en&layout=compact" alt="aurelie661" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurelie661&show_icons=true&locale=en" alt="aurelie661" /></p>

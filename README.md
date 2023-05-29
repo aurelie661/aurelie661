@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurelie661&label=Profile%20views&color=0e75b6&style=flat" alt="aurelie661" /> </p>
 
 <h1>ABOUT ME</h1>
+I am a passionate developer who specializes in the Angular and Java programming languages. I enjoy learning and solving problems, whether it's on the front end or back end. Most importantly, I love collaborating on fantastic projects.
 
 - 🔭 I’m currently working on [Pokemon Project](https://github.com/aurelie661/ANGULAR-PROJECT/tree/master/projet%20pokemon)
 

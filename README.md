@@ -10,7 +10,8 @@ I am a passionate developer who specializes in the Angular and Java programming 
 
 - 🌱 I’m currently learning **JAVA && ANGULAR**
 
-- 👨‍💻 Some of my projects are available at [https://aboutillier.fr/](https://aboutillier.fr/)
+<!-- - 👨‍💻 Some of my projects are available at [https://aboutillier.fr/](https://aboutillier.fr/) -->
+- 👨‍💻 Some of my projects are available at <a href="https://aboutillier.fr/"><img scr="aboutillier.png"></img></a>
 
 <h1>CONTACT ME</h1>
 - 📫 How to reach me <a href="mailto:contact@aboutillier">  📬</a>

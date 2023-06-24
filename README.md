@@ -23,7 +23,7 @@ I am a passionate developer who specializes in the Angular and Java programming 
 
 <h1 align="left">LANGUAGES AND TOOLS:</h1>
 
-<img src="LanguagesAndToolsImage.png" alt="Languages and tools" width="900" height="400"/>
+<img src="LanguagesAndToolsImage_.png" alt="Languages and tools" width="900" height="400"/>
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aurelie661" alt="aurelie661" /></a> </p>
 <hr>

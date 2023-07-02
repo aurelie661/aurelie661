@@ -7,7 +7,9 @@
 I am a passionate developer who specializes in the Angular and Java programming languages. I enjoy learning and solving problems, whether it's on the front end or back end. Most importantly, I love collaborating on fantastic projects.
 
 - 🔭 I’m currently working on [Tour-of-heroes](https://github.com/aurelie661/TOUR-OF-HEROES)
-
+  
+- 🔭 I learn every day with [FREE CODE CAMP](https://www.freecodecamp.org/Aurelie_Boutillier)
+  
 - 🌱 I’m currently learning **JAVA && ANGULAR**
 
 - 👨‍💻 Some of my projects are available at [<img src="aboutillier.png"/>](https://aboutillier.fr/)

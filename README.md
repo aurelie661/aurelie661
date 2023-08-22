@@ -5,8 +5,6 @@
 
 <h1>ABOUT ME</h1>
 I am a passionate developer who specializes in the Angular and Java programming languages. I enjoy learning and solving problems, whether it's on the front end or back end. Most importantly, I love collaborating on fantastic projects.
-
-
   
 - 🔭 I learn every day with [FREE CODE CAMP](https://www.freecodecamp.org/Aurelie_Boutillier)
   
